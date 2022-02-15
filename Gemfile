@@ -10,6 +10,7 @@ group :test do
   gem "sinatra"
   gem "webrick"
   gem "sinatra-contrib"
+  gem 'pg'
   gem 'simplecov', require: false
   gem 'simplecov-console', require: false
 end
