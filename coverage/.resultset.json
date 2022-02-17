@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/meg/Programming/week4/Bookmark_challenge/spec/bookmark_spec.rb": {
+      "/Users/francesco/Projects/Bookmarkmanager/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -23,7 +23,7 @@
           null
         ]
       },
-      "/Users/meg/Programming/week4/Bookmark_challenge/spec/features/add_bookmark_spec.rb": {
+      "/Users/francesco/Projects/Bookmarkmanager/spec/features/add_bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -32,13 +32,13 @@
           1,
           1,
           1,
-          0,
+          1,
           null,
           null,
           null
         ]
       },
-      "/Users/meg/Programming/week4/Bookmark_challenge/spec/features/view_bookmarks_spec.rb": {
+      "/Users/francesco/Projects/Bookmarkmanager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           null,
@@ -58,6 +58,6 @@
         ]
       }
     },
-    "timestamp": 1645110199
+    "timestamp": 1645111764
   }
 }
