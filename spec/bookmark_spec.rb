@@ -18,9 +18,10 @@ describe Bookmark do
 
   describe '.add' do
     it 'adds a new bookmark' do
-      Bookmark.add(url: 'http://www.example.org')
+      Bookmark.add(url: 'http://www.example.org', title: 'Gmail')
   
-      expect(Bookmark.all).to include 'http://www.example.org'
+      # expect(Bookmark.all).to include 'http://www.example.org'
+      expect(Bookmark.all).to include 'Gmail'
     end
   end
 end
